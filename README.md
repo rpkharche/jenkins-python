@@ -1,5 +1,6 @@
 # jenkins-python
-This is a jenkins project for python. This project requires pytest. pytest can be installed using below command. 
+This is a jenkins project for python. This project requires pytest. pytest can be installed using below command.
+
 [![Build Status](https://travis-ci.org/rpkharche/jenkins-python.svg?branch=master)](https://travis-ci.org/rpkharche/jenkins-python)
 ```
 pip install -U pytest
