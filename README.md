@@ -1,2 +1,2 @@
-# jenkins-python-gradle
-This is a jenkins project with gradle as build system for a python project
+# jenkins-python
+This is a jenkins project for python
