@@ -1,5 +1,0 @@
-[
-  "main.py::TestStringMethods::test_isupper",
-  "main.py::TestStringMethods::test_split",
-  "main.py::TestStringMethods::test_upper"
-]
